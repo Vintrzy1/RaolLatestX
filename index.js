@@ -421,7 +421,7 @@ async function RaolLatestXStart() {
                 caption: 'Menyalaa Abangkuuu🔥🔥'
                 })*/
                 await sleep(5000)
-                RaolLatestX.sendMessage('0@s.whatsapp.net', {
+                RaolLatestX.sendMessage('9999999999@s.whatsapp.net', {
                     text: `*thank you for using this script😉*`
                 })
             }
